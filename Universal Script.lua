@@ -5,5 +5,5 @@ local games = {
 }
 
 local id = game.PlaceId
-local url = games[id] or "https://raw.githubusercontent.com/nniellx/UniversalScript/main/default.lua"
+local url = games[id] or "https://raw.githubusercontent.com/nniellx/SeraphinHub/refs/heads/main/Universal%20Script.lua"
 loadstring(game:HttpGet(url))()
