@@ -1,6 +1,6 @@
 -- Universal Script Loader
 local games = {
-    [119048529960596] = "https://raw.githubusercontent.com/nniellx/SeraphinHub/main/RestaurantTycoon3.lua"))()",
+    [119048529960596] = "https://raw.githubusercontent.com/nniellx/SeraphinHub/main/RestaurantTycoon3.lua",
     -- tambahin game lain kalau perlu
 }
 
