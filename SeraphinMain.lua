@@ -6,7 +6,7 @@ local games = {
 local id = game.PlaceId
 print("Detected PlaceId:", id)
 
-local url = games[id] or "https://raw.githubusercontent.com/nniellx/SeraphinHub/refs/heads/main/SeraphinMain.lua"
+local url = games[id] or "https://raw.githubusercontent.com/nniellx/SeraphinHub/main/SeraphinMain.lua"
 print("Loading script from:", url)
 
 local success, err = pcall(function()
