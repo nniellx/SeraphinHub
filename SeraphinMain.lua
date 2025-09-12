@@ -10,7 +10,7 @@ local url = games[id] or "https://raw.githubusercontent.com/nniellx/SeraphinHub/
 print("Loading script from:", url)
 
 local success, err = pcall(function()
-    loadstring(game:HttpGet(games))()
+    loadstring(game:HttpGet(url))()  
 end)
 
 if not success then
