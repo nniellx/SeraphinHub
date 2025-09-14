@@ -12,7 +12,7 @@ end
 local Window = WindUI:CreateWindow({
     Title = "Seraphin",
     Icon = "rbxassetid://120248611602330",
-    Author = "KirsiaSC | Fish It",
+    Author = "nniellx | Fish It",
     Folder = "SERAPHIN_HUB",
     Size = UDim2.fromOffset(270, 300),
     Transparent = true,
