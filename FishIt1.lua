@@ -12,7 +12,7 @@ end
 local Window = WindUI:CreateWindow({
     Title = "Seraphin",
     Icon = "rbxassetid://120248611602330",
-    Author = "nniellx | Fish It",
+    Author = "KirsiaSC | Fish It",
     Folder = "SERAPHIN_HUB",
     Size = UDim2.fromOffset(270, 300),
     Transparent = true,
@@ -398,4 +398,4 @@ local Colorpicker = Tab5:Colorpicker({
     Callback = function(color) 
         print("Background color: " .. tostring(color))
     end
-}
+})
